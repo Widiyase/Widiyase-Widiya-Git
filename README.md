@@ -100,7 +100,7 @@ bebas membuat membuat nama Commit apa saja.
 Remote repository berfungsi untuk mengupload file yang telah di buat sebelumnya di local disk. Masukkan perintah berikut ini untuk melakukan remote repository:
 ```sh
 git branch -M main
-git remote add origin https://github.com/Rezastein/Eza-Git.git
+git remote add origin https://github.com/Widiyase/Widiyase-Widiya-Git
 ```
 Perintah di atas tidak akan menghasilkan output apa pun.
 
